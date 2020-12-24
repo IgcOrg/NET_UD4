@@ -1,0 +1,6 @@
+C:\Users\Iago\Source\Repos\igc88\NET_UD4\U4_E11\bin\Debug\U4_E11.exe.config
+C:\Users\Iago\Source\Repos\igc88\NET_UD4\U4_E11\bin\Debug\U4_E11.exe
+C:\Users\Iago\Source\Repos\igc88\NET_UD4\U4_E11\bin\Debug\U4_E11.pdb
+C:\Users\Iago\Source\Repos\igc88\NET_UD4\U4_E11\obj\Debug\U4_E11.csproj.CoreCompileInputs.cache
+C:\Users\Iago\Source\Repos\igc88\NET_UD4\U4_E11\obj\Debug\U4_E11.exe
+C:\Users\Iago\Source\Repos\igc88\NET_UD4\U4_E11\obj\Debug\U4_E11.pdb
