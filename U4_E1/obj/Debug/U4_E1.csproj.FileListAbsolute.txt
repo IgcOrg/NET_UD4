@@ -1,0 +1,7 @@
+C:\Users\Iago\Source\Repos\igc88\NET_UD4\U4_E1\bin\Debug\U4_E1.exe.config
+C:\Users\Iago\Source\Repos\igc88\NET_UD4\U4_E1\bin\Debug\U4_E1.exe
+C:\Users\Iago\Source\Repos\igc88\NET_UD4\U4_E1\bin\Debug\U4_E1.pdb
+C:\Users\Iago\Source\Repos\igc88\NET_UD4\U4_E1\obj\Debug\U4_E1.csprojAssemblyReference.cache
+C:\Users\Iago\Source\Repos\igc88\NET_UD4\U4_E1\obj\Debug\U4_E1.csproj.CoreCompileInputs.cache
+C:\Users\Iago\Source\Repos\igc88\NET_UD4\U4_E1\obj\Debug\U4_E1.exe
+C:\Users\Iago\Source\Repos\igc88\NET_UD4\U4_E1\obj\Debug\U4_E1.pdb
